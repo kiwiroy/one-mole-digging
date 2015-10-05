@@ -2,6 +2,6 @@
   "scripts" : [ 
   {"path":"./scripts/alpha.sh", "args": ["-a", "1"] },
   {"path":"./scripts/beta.sh", "args": ["-b", "2"] },
-  {"path":"./scripts/gamma.sh", "args": ["-c", "3"] },
+  {"path":"./scripts/gamma.sh", "args": ["-c", "3"] }
   ]
 }
